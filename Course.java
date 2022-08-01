@@ -1,6 +1,3 @@
-//Christian Phan and Ivan Chen
-//CS111B - Programming Fundamentals
-//Project 2 - Course Registration
 
 import java.util.*;
 import java.lang.*;
